@@ -1,0 +1,85 @@
+form{
+    width: 800px;
+    height: 700px;
+    border-radius: 40px;
+    background-color: white;
+    text-align: center;
+    font-size: 30px;
+    justify-content: center;
+    margin-left: 20%;
+    margin-top: 30px;
+}
+input{
+    background: transparent;
+    border-left: 0;
+    border-right: 0;
+    border-top: 0;
+    border-bottom: 2px solid black;
+    border-radius: 50px;
+}
+h1{
+    font-family: cursive;
+    font-size: 30px;
+
+}
+.links{
+    text-decoration: none;
+    gap: 40px;
+    font-family: fantasy;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 4px black ;
+
+}
+.link{
+display: flex;
+text-decoration: non;
+flex-direction: row;
+
+}
+h1{
+    height: 90px;
+    background-color: rgb(3, 3, 138);
+}
+body{
+    background-color: whitesmoke;
+}
+a:hover{
+    background-color: red;
+
+}
+a{
+    text-decoration: black;
+   font-family: sans-serif;
+    color: black;
+    text-decoration: none;
+    font-size: 30px;
+}
+.left{
+    margin-top: 0px;
+    width: 20%;
+    background-color: white;
+    height: 60%;
+    font-weight: 60px;
+
+}
+h2{
+    background-color: blue;
+    color: white;
+    border-radius: 30px;
+}
+select{
+    background: transparent;
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 0px;
+    border-bottom: 2px solid black;
+
+}
+body{
+    background-image: url(./images/keisha-kim-W9KUr9oKJoc-unsplash.jpg);
+}
+th{
+    background-color: green;
+    
+}
